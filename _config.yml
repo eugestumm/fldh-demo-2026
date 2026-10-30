@@ -12,15 +12,15 @@
 url: https://eugestumm.github.io
 # baseurl is path to location on the domain if necessary e.g. /digital/hjccc
 # on GitHub Pages it is your github repository's name prefixed with a /
-baseurl: /CollectionBuilder-Remix
+baseurl: /fldh-demo-2026
 # location of code, the full url to your github repository
-source-code: https://github.com/eugestumm/CollectionBuilder-Remix
+source-code: https://github.com/eugestumm/fldh-demo-2026/tree/main
 
 ##########
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: 'CollectionBuilder-Remix: Collection Sample'
+title: 'CollectionBuilder-Remix: Collection Sample for FLDH'
 
 # tagline, a short phrase that will appear throughout the site in the top banner
 tagline: Based on Gender Inclusive Spanish Digital Archive
@@ -40,7 +40,7 @@ site_languages:
   lang_display: 'English'
 - lang_id: 'es'
   lang_display: 'Español'
-  lang_site_title: 'CollectionBuilder-Remix: Colección de Demostración'
+  lang_site_title: 'CollectionBuilder-Remix: Colección de Muestra para lx FLDH'
   lang_site_tagline: Basado en el Archivo Digital de Español No Binario
   lang_site_description: "Esta colección es una demostración pedagógica basada en
     el <a href=\"https://eugestumm.github.io/gender-inclusive-spanish-digital-archive/\"\
